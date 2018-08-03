@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-lgtv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ping-lite": "^1.0.2",
+    "wake_on_lan": "^1.0.0",
+    "websocket": "^1.0.26",
+    "websocket-as-promised": "^0.8.0"
+  },
+  "engines": {
+    "homebridge": ">=0.2.5"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "lgtv"
+  ]
+}
